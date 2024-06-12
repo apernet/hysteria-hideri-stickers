@@ -1,5 +1,7 @@
 # 彩羽ひでり sticker packs
 
+![Preview](CN/02%20hy启动.png)
+
 Telegram 中文版:
 https://t.me/addstickers/Hideri1CN
 
